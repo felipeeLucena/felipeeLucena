@@ -34,7 +34,7 @@
 
 <h2>Onde me encontrar:</h2>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/felipe-teixeira-738719179/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;"></a>
 
 
 
