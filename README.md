@@ -14,4 +14,9 @@
 🍀 Sempre em busca de conhecimento. <br>
 🤝 Disposto a compartilhar conhecimento, qualquer dúvida estou à disposição. <br>
 
+<h2>Linguagens, Frameworks e Ferramentas:</h2>
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+</div>
+
 
