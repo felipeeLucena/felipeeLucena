@@ -1,20 +1,39 @@
-<h2>👩🏾‍💻 - Analista de Automação de testes e Qualidade de Software JR</h2>
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-<img src="https://camo.githubusercontent.com/46a2a5694c287cbf699bc38c22558803d55162f313199cb1edb9729b4cc2c04b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3534302f312a6e6731494b305f7a4f56757832576736424c36385a672e706e67" alt="Descrição da imagem" width="300">
+###
 
-<h2>Sobre mim:</h2>
-🌎 Surubim - Pernambuco <br>
-👩🏾‍🎓 Licenciatura em Sistemas de Informação - UFRPE <br>
-📚Pós-Graduação em - Desenvolvimento Web Full Stack - UNOPAR <br>
-📚Pós-Graduação em - Engenharia de software com ênfase em qualidade e teste de software - UNOPAR <br>
-👩🏾‍💻 Analista de Qualidade de Software, apaixonado por automação de testes. <br>
-⚙️ Experiência em Selenium WebDriver, Cypress, JMeter, Postman, GIT. <br>
-🧠 Proativo, comunicativo e bastante curioso. <br>
-👩🏾‍⚖️ Defendo e reforço a mentalidade de que o QA faz parte do desenvolvimento do produto!! <br>
-🍀 Sempre em busca de conhecimento. <br>
-🤝 Disposto a compartilhar conhecimento, qualquer dúvida estou à disposição. <br>
+<div align="center">
+  <a href="https://br.linkedin.com/in/felipeeLucena" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-<h2>Linguagens, Frameworks e Ferramentas:</h2>
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=felipeeLucena.felipeeLucena&"  />
+</div>
+
+###
+
+<h1 align="center">Analista de Testes - QA/ Manuais e Automatizados</h1>
+
+###
+
+<h3 align="left">Sobre  mim</h3>
+
+###
+
+<p align="left">🌎 Surubim - Pernambuco<br>👨‍🎓 Graduado em Licenciatura em Computação - UFRPE<br>📚Pós-Graduação em - Engenharia de software com ênfase em qualidade e teste de software - UNOPAR<br>🧠 Analítico, comunicativo e gosto de trabalho em equipe<br>🏫 Em constante processo de aprendizagem<br>⚡ Migrei de área por ser maravilhado por qualidade de software</p>
+
+###
+
+<h3 align="left">🛠 Soft Skills</h3>
+
+###
+
 <div style="display: inline_block">
     <img src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="JS" width="30px">
     <img src="https://camo.githubusercontent.com/1171c87efd3aa7d0629dfd4486bda5e0427c8858e5988faad575daa5d7f33584/68747470733a2f2f696d616765732e6374666173736574732e6e65742f71356772307337706b3939372f546838343538576f4450676831784f63596a7634512f62323332386435333863376434393938353362666666336163313135343063352f437970726573732e706e67" alt="Cypress" width="30px" >
@@ -24,21 +43,14 @@
  <img src="https://camo.githubusercontent.com/ebc1aa3a26ae5ea118ebeb1fdbda5b89c590ef901f1607752bbbf18c67c88416/68747470733a2f2f6a6d657465722e6170616368652e6f72672f696d616765732f6a6d657465725f7371756172652e706e67" alt="Descrição da imagem" width="30px">  
 </div>
 
-<h2>Banco de Dados:</h2>
-<div style="display: inline_block">
-<img src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" alt="Descrição da imagem" width="30px">
+###
 
-<img src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" alt="Descrição da imagem" width="30px">
+<h3 align="left">🔥   Minhas estatísticas</h3>
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=felipeeLucena&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<h2>Onde me encontrar:</h2>
-
-<a href="https://www.linkedin.com/in/felipe-teixeira-738719179/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="max-width: 100%;"></a>
-
-
-
-
-
-
-
+###
