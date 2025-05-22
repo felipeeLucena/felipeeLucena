@@ -38,7 +38,7 @@
 <div style="display: inline_block">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://camo.githubusercontent.com/1171c87efd3aa7d0629dfd4486bda5e0427c8858e5988faad575daa5d7f33584/68747470733a2f2f696d616765732e6374666173736574732e6e65742f71356772307337706b3939372f546838343538576f4450676831784f63596a7634512f62323332386435333863376434393938353362666666336163313135343063352f437970726573732e706e67" width="40" alt="Cypress"/>
+  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" width="40" alt="Cypress"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" alt="Playwright"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" alt="Selenium"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/>
