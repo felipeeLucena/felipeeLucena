@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" alt="Jira"/>
   <img src="https://cdn.worldvectorlogo.com/logos/snyk.svg" width="40" alt="Snyk"/>
-  <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/sonarqube.png" width="40" alt="SonarQube"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="40" alt="SonarQube"/>
 
 </div>
 
